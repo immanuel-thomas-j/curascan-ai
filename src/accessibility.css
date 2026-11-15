@@ -1,0 +1,23 @@
+/* accessibility.css */
+html.font-size-sm body { zoom: 0.9; }
+html.font-size-base body { zoom: 1; }
+html.font-size-lg body { zoom: 1.15; }
+html.font-size-xl body { zoom: 1.3; }
+
+html.high-contrast {
+  filter: contrast(1.4) saturate(1.2) brightness(0.95);
+}
+
+html.high-contrast * {
+  border-color: #333 !important;
+}
+
+html.dyslexia-font, html.dyslexia-font * {
+  font-family: 'OpenDyslexic', 'Comic Sans MS', sans-serif !important;
+}
+
+html.reduce-motion * {
+  animation-duration: 0.001ms !important;
+  transition-duration: 0.001ms !important;
+  scroll-behavior: auto !important;
+}
