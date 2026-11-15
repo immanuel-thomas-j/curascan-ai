@@ -15,7 +15,7 @@
 **Intercepting fatal medical contraindications before they reach the patient.**  
 Cross-Document Multimodal Reasoning · Deterministic Heuristics · Regional Drug Alternatives (Jan Aushadhi) · Multimodal Meal Safety · Multilingual Audio Forensics
 
-Built for the **Build with Gemini Hackathon** - *Best Use of Google Gemini API* 🏆
+Built with ❤️ by **Team Infinex** for the **Build with Gemini Hackathon** - *Best Use of Google Gemini API* 🏆
 
 </div>
 
@@ -230,5 +230,5 @@ npm run preview
 Distributed under the **MIT License**. See `LICENSE` for details.
 
 <div align="center">
-  <sub>Built with ❤️ for the <strong>Build with Gemini Hackathon</strong></sub>
+  <sub>Built with ❤️ by <strong>Team Infinex</strong> for the <strong>Build with Gemini Hackathon</strong></sub>
 </div>
